@@ -15,3 +15,7 @@ The DNA ( Deoxyribonucleic acid) is the hereditary materials found in every livi
 
 ![image](https://www.thoughtco.com/thmb/YtZNHuQ8w0mVut52czgf_6PzR3w=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dna-versus-rna-608191_sketch_Final-54acdd8f8af04c73817e8811c32905fa.png)
 
+
+***
+## Amino Acids
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.stack.imgur.com%2FzKJW2.png&f=1&nofb=1)
