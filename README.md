@@ -18,4 +18,5 @@ The DNA ( Deoxyribonucleic acid) is the hereditary materials found in every livi
 
 ***
 ## Amino Acids
-![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.stack.imgur.com%2FzKJW2.png&f=1&nofb=1)
+There are
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sampletemplates.com%2Fwp-content%2Fuploads%2F2016%2F02%2FAmino-Acid-Chart-Single-Letter-Code.jpg&f=1&nofb=1)
