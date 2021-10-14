@@ -39,7 +39,7 @@ During protein synthesis, STOP codons cause the release of the new polypeptide c
 
 ***
 ## Amino Acids
-There are 20 main amino acids
+These are the main 20 amino acids with their respective 3-letters and 1-letter codes.
 
 ![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sampletemplates.com%2Fwp-content%2Fuploads%2F2016%2F02%2FAmino-Acid-Chart-Single-Letter-Code.jpg&f=1&nofb=1)
 
@@ -54,4 +54,11 @@ This is simply a change in genetic sequence that may be caused by factors such a
 
 Gene mutations are have different effects depending on where they occur and exactly how they alter protein functions. The different type of mutations include;
 * **Silent mutation:** This mutation changes the sequences of bases in a DNA but not a change in amino acids sequence of a protein.
+* **Missense mutation:** It is a change in one DNA base pair resulting in a substitution of one amino acid for another in the protein made by the gene.
+* **Nonsense mutation:** It is similar to the missense mutation but differ when a change in DNA sequence results in the cell prematurely stops building a protein.The resulting protein may misfunction or not function at all.
+* **Insertion/Deletion mutation:** Insertion occurs when a pieace of DNA is added while deletion occurs when it is deleted. The addition or deletion  can either be a few or more base pairs, however, either way the protein doesn't function properly.
+* **Duplication:** It occurs when a DNA abnormally copied one or more times resulting to alteration of the specific protein function.
+* **Frameshift mutation:**   This type of mutation occurs when the addition or loss of DNA bases changes a gene’s [reading frame](https://www.ncbi.nlm.nih.gov/Class/MLACourse/Original8Hour/Genetics/readingframe.html).The resulting protein is usually nonfunctional.
+> Insertions, deletions, and duplications can all be frameshift mutations.
+* **Repetition Expansion:** Nucleotide repeats are short DNA sequences that are repeated a number of times in a row. For example, a trinucleotide repeat is made up of 3-base- pair sequences, and a tetranucleotide repeat is made up of 4-base-pair sequences. A repeat expansion is a mutation that increases the number of times that the short DNA sequence is repeated. This type of mutation can cause the resulting protein to function in a completely different way than it would have originally.
 
