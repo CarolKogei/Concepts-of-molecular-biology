@@ -43,4 +43,5 @@ There are 20 main amino acids
 
 ![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sampletemplates.com%2Fwp-content%2Fuploads%2F2016%2F02%2FAmino-Acid-Chart-Single-Letter-Code.jpg&f=1&nofb=1)
 
-## MUTATIONS
+## What is a Mutation?
+Mutation is simply a change in genetic sequence that may be caused by factors such as 
