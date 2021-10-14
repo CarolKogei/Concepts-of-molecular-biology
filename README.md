@@ -8,6 +8,21 @@ The DNA ( Deoxyribonucleic acid) is the hereditary materials found in every livi
 ## Start and End Codons
 The genetic code is made up of codons or tripple bases, in total there are 64 codons arising from combination and permutations of the 4 chemical bases. Since the genetic code is degenerate such that, more than one codon can code for a single amino acids.Therefore 61 out of the available 64 are used to code for the 20 amino  acids hence the concept of **start and end cordons**.
 
+* **Start codons**
+
+The most common start codon is the AUG that translates to the amino acid Methionine(Met) in eukorytes and methionine (fMet) in prokaryotes . The tRNA recognises AUG as the start codon by the help of some [initiation factors](http://www.sbs.utexas.edu/herrin/bio344/lectures/lecturespdf/Background/gSection%206.pdf) hence commencing the translation process.
+
+Non-AUG START codons are rarely found in eukaryotic genomes. Apart from the usual Met codon, mammalian cells can also START translation with the amino acid leucine with the help of a leucyl-tRNA decoding the CUG codon. Mitochondrial genomes use AUA and AUU in humans and GUG and UUG in prokaryotes as alternate START codons.
+
+* **End codons**
+
+The three stop codons are namely UAG, UAA and UGA also referred by the names *ammber, opal/umber, ochre* respectively. They symbolise the end of a polypeptide chain during translation and they do not code for any amino acid therefore also known as termination or nonsense codons.
+
+During protein synthesis, STOP codons cause the release of the new polypeptide chain from the ribosome. This occurs because there are no tRNAs with anticodons complementary to the STOP codons
+
+## Open Reading Frame
+
+
 
 ## Difference between DNA and RNA
 1.  The DNA has a double helix structure while RNA is characterised with only one strand.
@@ -22,4 +37,7 @@ The genetic code is made up of codons or tripple bases, in total there are 64 co
 ***
 ## Amino Acids
 There are 20 main amino acids
+
 ![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sampletemplates.com%2Fwp-content%2Fuploads%2F2016%2F02%2FAmino-Acid-Chart-Single-Letter-Code.jpg&f=1&nofb=1)
+
+## MUTATIONS
