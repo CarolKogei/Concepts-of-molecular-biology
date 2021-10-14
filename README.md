@@ -30,7 +30,7 @@ The three stop codons are namely UAG, UAA and UGA also referred by the names *am
 
 During protein synthesis, STOP codons cause the release of the new polypeptide chain from the ribosome. This occurs because there are no tRNAs with anticodons complementary to the STOP codons
 
-> An open reading frame is a portion of a DNA molecule that, when translated into amino acids, contains no stop codons. The genetic code reads DNA sequences in groups of three base pairs, which means that a double-stranded DNA molecule can read in any of six possible reading frames--three in the forward direction and three in the reverse. A long open reading frame is likely part of a gene - *National Human Genome Institute*
+> An **open reading frame** is a portion of a DNA molecule that, when translated into amino acids, contains no stop codons. The genetic code reads DNA sequences in groups of three base pairs, which means that a double-stranded DNA molecule can read in any of six possible reading frames--three in the forward direction and three in the reverse. A long open reading frame is likely part of a gene - *National Human Genome Institute*
 
 
 
