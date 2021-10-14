@@ -47,3 +47,11 @@ There are 20 main amino acids
 * **What is a Mutation?**
 This is simply a change in genetic sequence that may be caused by factors such as errors in DNA replication during cell division, exposure to ionizing radiation, exposure to [mutagens](https://www.merriam-webster.com/dictionary/mutagen) and virus infections.
 
+> **Sponteneous mutations** are those that occur due to cell division i.e. internal factors while **Induced mutations** is a result of environmental effects such as exposure to mutagens.
+> 
+> **Germline mutations** occur in the reproductive cell - ovary and sperm cell - and can be passed into the offspring while **somatic mutations** occur in body cells and are not hereditary.
+> 
+
+Gene mutations are have different effects depending on where they occur and exactly how they alter protein functions. The different type of mutations include;
+* **Silent mutation:** This mutation changes the sequences of bases in a DNA but not a change in amino acids sequence of a protein.
+
