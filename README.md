@@ -5,6 +5,9 @@ The DNA ( Deoxyribonucleic acid) is the hereditary materials found in every livi
 ![DNA and its building blocks](https://www.ncbi.nlm.nih.gov/books/NBK26821/bin/ch4f3.jpg)
 >  **Nucleotides** are composed of a five-carbon sugar to which are attached one or more phosphate groups and a nitrogen-containing base.
 
+## Start and End Codons
+The genetic code is made up of codons or tripple bases, in total there are 64 codons arising from combination and permutations of the 4 chemical bases. Since the genetic code is degenerate such that, more than one codon can code for a single amino acids.Therefore 61 out of the available 64 are used to code for the 20 amino  acids hence the concept of **start and end cordons**.
+
 
 ## Difference between DNA and RNA
 1.  The DNA has a double helix structure while RNA is characterised with only one strand.
@@ -18,5 +21,5 @@ The DNA ( Deoxyribonucleic acid) is the hereditary materials found in every livi
 
 ***
 ## Amino Acids
-There are
+There are 20 main amino acids
 ![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.sampletemplates.com%2Fwp-content%2Fuploads%2F2016%2F02%2FAmino-Acid-Chart-Single-Letter-Code.jpg&f=1&nofb=1)
