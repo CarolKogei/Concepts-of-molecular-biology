@@ -62,3 +62,5 @@ Gene mutations are have different effects depending on where they occur and exac
 > Insertions, deletions, and duplications can all be frameshift mutations.
 * **Repetition Expansion:** Nucleotide repeats are short DNA sequences that are repeated a number of times in a row. For example, a trinucleotide repeat is made up of 3-base- pair sequences, and a tetranucleotide repeat is made up of 4-base-pair sequences. A repeat expansion is a mutation that increases the number of times that the short DNA sequence is repeated. This type of mutation can cause the resulting protein to function in a completely different way than it would have originally.
 
+> Mutations can be classified into two main types;
+> [*Recessive mutation and Dominant mutation*](https://www.ncbi.nlm.nih.gov/books/NBK21578/#A1877)
